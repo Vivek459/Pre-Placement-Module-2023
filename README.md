@@ -7,7 +7,7 @@
 - Preferred Programming Language: Java
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/Vivek_Singh_2023/)
+- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/Vivek_Singh_1923/)
 - HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/vivek_1923en1091)
 
 ## Placement Module
